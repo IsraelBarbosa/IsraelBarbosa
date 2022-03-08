@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, sou Israel Barbosa 👋
 
-<!--
-**IsraelBarbosa/IsraelBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Sou desenvolvedor front-end
+- 🌱 Estou estudando HTML, CSS, JavaScript, React
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsraelBarbosa&show_icons=true&theme=dark&locale=pt-br&count_private=true" />
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=spaceLanceFreelancingg&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=foodsavorlandingpage&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Glassmorphism-Landing-Page&show_owner=true" />
+</div>
