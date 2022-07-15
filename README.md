@@ -1,7 +1,7 @@
 ## Olá, sou Israel Barbosa 👋
 
 - 🔭 Sou desenvolvedor front-end
-- 🌱 Estou estudando HTML, CSS, Sass, JavaScript, Jquery, Webpack, React, Angular.
+- 🌱 Estou estudando HTML, CSS, Sass, JavaScript, TypeScript Jquery, Webpack, React, Angular.
 
 ![Israel Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelBarbosa&show_icons=true&theme=dark&locale=pt-br&count_private=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBarbosa&layout=compact&locale=pt-br)](https://github.com/IsraelBarbosa)
 
