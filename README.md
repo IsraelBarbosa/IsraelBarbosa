@@ -3,8 +3,9 @@
 - 🔭 Sou desenvolvedor front-end
 - 🌱 Estou estudando HTML, CSS, Sass, JavaScript, TypeScript Jquery, Webpack, React, Angular.
 
-![Israel Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelBarbosa&show_icons=true&theme=dark&locale=pt-br&count_private=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBarbosa&layout=compact&locale=pt-br)](https://github.com/IsraelBarbosa)
+![Israel Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelBarbosa&show_icons=true&theme=dark&locale=pt-br&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelBarbosa&layout=compact&locale=pt-br)](https://github.com/IsraelBarbosa)
 
+<br />
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
@@ -16,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" /> 
 </div>
+<br />
 
  ### Principais repósitorios de React  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" />
 <div>
