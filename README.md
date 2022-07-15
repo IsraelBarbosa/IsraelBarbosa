@@ -30,12 +30,17 @@
   </a>
 </div>
 
-### Principais repósitorios de Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" /> 
 <div>
-  <a href="https://github.com/IsraelBarbosa/Gerenciador-de-campanhas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Gerenciador-de-campanhas&show_owner=true" />
-  </a>
-  <a href="https://github.com/IsraelBarbosa/netbookSocialNetworkingLandingPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=netbookSocialNetworkingLandingPage&show_owner=true" />
-  </a>
+  <div style="display:flex; align-items: center;">
+    <h3>Principais repósitorios de Angular</h3> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" /> 
+  </div>
+  <div>
+    <a href="https://github.com/IsraelBarbosa/Gerenciador-de-campanhas">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Gerenciador-de-campanhas&show_owner=true" />
+    </a>
+    <a href="https://github.com/IsraelBarbosa/netbookSocialNetworkingLandingPage">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=netbookSocialNetworkingLandingPage&show_owner=true" />
+    </a>
+  </div>
 </div>
