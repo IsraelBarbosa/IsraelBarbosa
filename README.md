@@ -17,29 +17,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" /> 
 </div>
 
+ ### Principais repósitorios de React  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" />
 <div>
-  ### Principais repósitorios de React  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" />
-  <div>
-    <a href="https://github.com/IsraelBarbosa/spaceLanceFreelancingg">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=spaceLanceFreelancingg&show_owner=true" />
-    </a>
-    <a href="https://github.com/IsraelBarbosa/foodsavorlandingpage">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=foodsavorlandingpage&show_owner=true" />
-    </a>
-    <a href="https://github.com/IsraelBarbosa/Glassmorphism-Landing-Page">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Glassmorphism-Landing-Page&show_owner=true" />
-    </a>
-  </div>
+  <a href="https://github.com/IsraelBarbosa/spaceLanceFreelancingg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=spaceLanceFreelancingg&show_owner=true" />
+  </a>
+  <a href="https://github.com/IsraelBarbosa/foodsavorlandingpage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=foodsavorlandingpage&show_owner=true" />
+  </a>
+  <a href="https://github.com/IsraelBarbosa/Glassmorphism-Landing-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Glassmorphism-Landing-Page&show_owner=true" />
+  </a>
 </div>
 
+### Principais repósitorios de Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" /> 
 <div>
-  ### Principais repósitorios de Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" /> 
-  <div>
-    <a href="https://github.com/IsraelBarbosa/Gerenciador-de-campanhas">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Gerenciador-de-campanhas&show_owner=true" />
-    </a>
-    <a href="https://github.com/IsraelBarbosa/netbookSocialNetworkingLandingPage">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=netbookSocialNetworkingLandingPage&show_owner=true" />
-    </a>
-  </div>
+  <a href="https://github.com/IsraelBarbosa/Gerenciador-de-campanhas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=Gerenciador-de-campanhas&show_owner=true" />
+  </a>
+  <a href="https://github.com/IsraelBarbosa/netbookSocialNetworkingLandingPage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=netbookSocialNetworkingLandingPage&show_owner=true" />
+  </a>
 </div>
