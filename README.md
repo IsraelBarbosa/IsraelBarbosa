@@ -21,6 +21,9 @@
 
  ### Principais repósitorios de React  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" />
 <div>
+  <a href="https://github.com/IsraelBarbosa/rest-countries-api-with-dark-theme">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=rest-countries-api-with-dark-theme&show_owner=true" />
+  </a>
   <a href="https://github.com/IsraelBarbosa/spaceLanceFreelancingg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraelBarbosa&repo=spaceLanceFreelancingg&show_owner=true" />
   </a>
